@@ -7,7 +7,7 @@ My name is Christopher Kusha, I'm a Data Analyst based out of New York City curr
 
 ## Data Analysis Projects
 
-### Examining Employee Attrition
+### [Examining Employee Attrition][2]
 
 In this project I analyzed an employee dataset to find subsections of the company with high attrition rates with the goal of communicating these findings to executives who can then decide how to address the company turnover. Note: data was altered for privacy reasons.
 
